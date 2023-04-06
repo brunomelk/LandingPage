@@ -1,1 +1,2 @@
-Uma landing page feito por html e css - balle bot.
+Uma landing page - balle bot.
+Essa essa LP foi feita por html & css. (alterçao)
