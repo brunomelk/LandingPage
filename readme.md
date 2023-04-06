@@ -1,1 +1,1 @@
-Uma landing page - balle bot.
+Uma landing page feito por html e css - balle bot.
